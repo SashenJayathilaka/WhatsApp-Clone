@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ```
-npx create-react-app todo_app
+npx create-react-app whatsapp_clone
 ```
 
 In the project directory, you can run:
