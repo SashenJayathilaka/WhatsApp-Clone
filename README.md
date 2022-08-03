@@ -1,12 +1,29 @@
-# WhatsApp Clone with REACT + Firebase
-### 🔥 Firebase 🌎 Hosting ---> https://whatsapp-clone-2c5b5.firebaseapp.com/
-<br>
+# WhatsApp Clone with REACT JS
+
+## <a href="https://whatsapp-clone-2c5b5.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
+
+#### PREREQUISITES:
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+
+<a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="30" height="30" /></a>
+<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="30" height="30" /></a>
+<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="30" height="30" /></a>
+<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
+<a href="#github"><img src="https://i.postimg.cc/1zk7FrH6/pngwing-com-2.png" alt="GitHub" width="30" height="30" /></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 ```
-npx create-react-app whatsapp_clone
+npx create-react-app amazon-clone
+```
+```
+cd amazon-clone
 ```
 
 In the project directory, you can run:
@@ -48,35 +65,35 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Dependencies
+Front-end
+
 ```
 npm install react-router-dom
 ```
 ```
-npm install react-router-dom@5
+npm install react-router-dom
 ```
 
 ## Available MATERIAL-UI Scripts
-find ----> https://v4.mui.com/
-
-```
-npm install @material-ui/core
-```
-if not work
+<a href="https://v4.mui.com/">Find</a>
 ```
 npm install -f @material-ui/core
 ```
+
 ```
-npm install -f @material-ui/styles
+npm install -f @material-ui/icons
 ```
-## Available MATERIAL-UI Scripts
-log in -----> https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds <br>
+## Firebase
+<a href="https://firebase.google.com/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEJgGMjrNU4-3-B_y4t75X_98NqlIFJH0-iyVB-5GPQvLm-kihLaerhoCZNYQAvD_BwE&gclsrc=aw.ds">log in</a>
+
 ```
 npm install firebase
 ```
 ```
 npm install -g firebase-tools
 ```
-find info ----> https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9
+<a href="https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9">Find</a>
 ```
 firebase init hosting
 ```
@@ -86,4 +103,4 @@ npm run build
 ```
 firebase deploy
 ```
-### current project ---> https://whatsapp-clone-2c5b5.firebaseapp.com/
+![image](https://user-images.githubusercontent.com/99184393/182627315-adb162e1-a7e3-434f-804a-17b3013d01ce.png)
