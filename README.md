@@ -20,10 +20,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ```
-npx create-react-app amazon-clone
+npx create-react-app whatsapp-clone
 ```
 ```
-cd amazon-clone
+cd whatsapp-clone
 ```
 
 In the project directory, you can run:
