@@ -122,7 +122,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [:triangular_flag_on_post: Deployment](https://github.com/SashenJayathilaka/Disney-Plus-Clone/blob/master/README.md) for more information.
+See the section about [:triangular_flag_on_post: Deployment](https://#) for more information.
 ```
 npm run eject
 ```
