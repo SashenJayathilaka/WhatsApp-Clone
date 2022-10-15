@@ -1,7 +1,15 @@
-# WhatsApp Clone with REACT JS
+<div align="center">
 
-![](https://img.shields.io/badge/Made%20with-React-orange?style=for-the-badge&logo=React)
-
+  <img src="https://i.postimg.cc/1zk7FrH6/pngwing-com-2.png" alt="logo" width="200" height="auto" />
+  
+  # WhatsApp Clone with REACT JS
+  
+  <p>
+  WhatsApp Clone with REACT + Firebase
+  </p>
+  
+  
+<!-- Badges -->
 
 <a href="https://whatsapp-clone-2c5b5.web.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
@@ -10,36 +18,33 @@
 ![](https://img.shields.io/github/issues/SashenJayathilaka/WhatsApp-Clone)
 ![](https://img.shields.io/github/last-commit/SashenJayathilaka/WhatsApp-Clone)
 
-## <a href="https://whatsapp-clone-2c5b5.web.app" target="_blank">LIVE DEMO 💥</a>
-
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://#/">Javascript</a></li>
-  <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-   <li><a href="https://firebase.google.com">Firebase</a></li>
-  </ul>
-</details>
+<h4>
+    <a href="https://whatsapp-clone-2c5b5.web.app">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/WhatsApp-Clone/blob/master/README.md">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/WhatsApp-Clone/issues">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/SashenJayathilaka/WhatsApp-Clone/issues">Request Feature</a>
+  </h4>
+</div>
 
 <br />
 
-<a href="#facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Facebook" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/social/google.svg" alt="Google" width="30" height="30" /></a>
-<a href="#google"><img src="https://user-images.githubusercontent.com/99184393/180461713-76c02155-35f5-497e-b3a3-364fec13da39.png" alt="Google" width="30" height="30" /></a>
-<a href="#github"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="30" height="30" /></a>
-<a href="#github"><img src="https://raw.githubusercontent.com/atulmy/oauth/master/web/public/images/tech/github.svg" alt="GitHub" width="30" height="30" /></a>
-<a href="#github"><img src="https://i.postimg.cc/1zk7FrH6/pngwing-com-2.png" alt="GitHub" width="30" height="30" /></a>
+<!-- Table of Contents -->
+## :notebook_with_decorative_cover: Table of Contents
 
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Contact](#handshake-contact)
+
+<!-- About the Project -->
+## :star2: About the Project
 
 <!-- Screenshots -->
 ### :camera: Screenshots
